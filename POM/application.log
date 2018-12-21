@@ -1,0 +1,4 @@
+2018-12-16 06:31:59,611  INFO [main] Page1_TestCase:19 - entering application URL
+2018-12-16 06:31:59,614  WARN [main] Page1_TestCase:20 - Hey this just a warning message
+2018-12-16 06:31:59,615 FATAL [main] Page1_TestCase:21 - hey this is just fatal error message
+2018-12-16 06:31:59,615 DEBUG [main] Page1_TestCase:22 - this is debug message
